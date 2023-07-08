@@ -1,4 +1,3 @@
-READ ME FILE has been updated
+READ ME FILE has been updated by chellam rajendran
 
-This is Chellam
-This is Gaurav commit
+
