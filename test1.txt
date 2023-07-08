@@ -1,5 +1,5 @@
 Git is a version control system.
 
-Git helps you keep track of code changes.
+Git helps you keep track of code changes and synchronize code.
 
-Git is used to collaborate on code.
+
